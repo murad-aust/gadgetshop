@@ -1,0 +1,46 @@
+.container{
+   margin-bottom: 50px;
+}
+.carousel-indicators li{
+   background-color: yellow ;
+   border-radius: 48%;
+   height: 15px;
+   width: 25px;
+}
+.carousel-indicators li.active{
+    background-color: yellow ;
+    border-radius: 16px;
+    height: 15px;
+    width: 50px;
+ }
+ .buy-now-btn{
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+ }
+ #see{
+    color: orange;
+    text-decoration: none;
+    text-align: center;
+ }
+ .card{
+    padding: 20px;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    box-shadow:10px 10px 40px lightgray;;
+ }
+ .card-footer{
+    border: none;
+    background-color: white;
+ }
+ .card img{
+    
+    height: 250px;
+ }
+ .card-text{
+    color: dimgray;
+ }
